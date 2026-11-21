@@ -24,5 +24,5 @@ magic login
 ```
 
 - [Website](https://magicmtn.ai/)
-- [Documentation](https://magicmtn.ai/docs/) (sign-in required)
+- [Documentation](https://magicmtn.ai/docs/)
 - [Discord](https://discord.gg/2fDyqE7BV)
